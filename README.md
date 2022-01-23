@@ -1,4 +1,12 @@
 # React Native
+
+## Road Map
+
+Home               |  .               
+:-------------------------:|
+![](/Road-Map.png)|
+
+
 ## Installing dependencies
 - Node, Watchman installation
     
