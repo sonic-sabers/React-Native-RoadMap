@@ -4,6 +4,7 @@
        
 ![](/Road-Map.png)|
 
+Checkout this for more info : https://github.com/jondot/awesome-react-native
 
 ## Installing dependencies
 - Node, Watchman installation
