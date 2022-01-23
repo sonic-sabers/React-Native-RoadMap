@@ -2,8 +2,7 @@
 
 ## Road Map
 
-Home               |  .               
-:-------------------------:|
+Home             
 ![](/Road-Map.png)|
 
 
